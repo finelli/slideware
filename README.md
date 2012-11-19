@@ -1,4 +1,4 @@
-slideware
+Slideware
 =========
 
-Slides, presentations, stuff like that
+Slides, presentations, stuff like that.
