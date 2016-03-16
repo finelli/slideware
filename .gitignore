@@ -31,3 +31,7 @@
 *.xdy
 *.tdo
 .svn
+*.swp
+*~
+*handout*
+!*handout*tex
